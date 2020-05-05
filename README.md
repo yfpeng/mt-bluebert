@@ -7,8 +7,8 @@ The package is based on [`mt-dnn`](https://github.com/namisan/mt-dnn).
 
 The pre-trained MT-BlueBERT weights, vocab, and config files can be downloaded from:
 
-* (mt-bluebert-biomedical)[https://github.com/yfpeng/mt-bluebert/releases/download/0.1/mt-bluebert-biomedical.pt]
-* (mt-bluebert-clinical)[https://github.com/yfpeng/mt-bluebert/releases/download/0.1/mt-bluebert-clinical.pt]
+* [mt-bluebert-biomedical](https://github.com/yfpeng/mt-bluebert/releases/download/0.1/mt-bluebert-biomedical.pt)
+* [mt-bluebert-clinical](https://github.com/yfpeng/mt-bluebert/releases/download/0.1/mt-bluebert-clinical.pt)
 
 The benchmark datasets can be downloaded from [https://github.com/ncbi-nlp/BLUE_Benchmark](https://github.com/ncbi-nlp/BLUE_Benchmark)
 
