@@ -45,7 +45,7 @@ bash ncbi_scripts/run_blue_fine_tune.sh
 python ncbi_scripts/convert_tf_to_pt.py --tf_checkpoint_root $SRC_ROOT --pytorch_checkpoint_path $DEST --encoder_type 1```
 ```
 
-## Citing BLUE
+## Citing MT-BLUE
 
 Peng Y, Chen Q, Lu Z. An Empirical Study of Multi-Task Learning on BERT
 for Biomedical Text Mining. In Proceedings of the 2020 Workshop on Biomedical
