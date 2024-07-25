@@ -1,7 +1,7 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 
 numpy
-torch==1.1.0
+torch==2.2.0
 tqdm
 colorlog
 boto3
